@@ -1,0 +1,1 @@
+exclude s4_django/tests.py
